@@ -5,7 +5,7 @@
 }
 .navbar .navbar-brand {
     color: #ffff;
-    font-size: 1.25rem;
+    font-size: 18px;
 }
 .navbar .navbar-brand:hover{
     color:#ffff;
@@ -29,9 +29,9 @@ header{
 }
 header .text-content h1{
     color: #ffff;
-    font-size: 58px;
+    font-size: 60px;
     font-weight: 400;
-    width: 80%;
+    width: 65%;
     margin-bottom: 30px;
 }
 
@@ -52,3 +52,12 @@ header .text-content .btn-join{
 header .text-content p.small{
     font-size: 16px;
 }  
+header .align-items-center{
+    align-items: center !important;
+}
+
+header .align-items-center .image-section img.img-fluid{
+    height: auto;
+    max-width: 100%;
+}
+/* bodysection 1 *
