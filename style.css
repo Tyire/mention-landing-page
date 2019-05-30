@@ -1,0 +1,54 @@
+/* navber section */
+.navbar{
+    background-color: #ff623f;
+    padding: 20px 0; 
+}
+.navbar .navbar-brand {
+    color: #ffff;
+    font-size: 1.25rem;
+}
+.navbar .navbar-brand:hover{
+    color:#ffff;
+}
+.navbar .navbar-nav li a.btn{
+    background-color:#ffff; 
+    color: #ff623f;     
+}
+.navbar .navbar-nav li a.nav-link {
+    color: #ffffff80; 
+} 
+.navbar .navbar-nav li a.nav-link:hover{
+    color:#ffffffbf;
+    transition: 0.4s ease-in-out;
+}  
+
+/* header section  */
+header{
+    background-color: #ff623f;
+    padding: 100px 0 100px 0; 
+}
+header .text-content h1{
+    color: #ffff;
+    font-size: 58px;
+    font-weight: 400;
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+header .text-content p{
+    color: #f8f9fa; 
+    font-size: 18px;
+    width: 80%; 
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+header .text-content .btn-join{
+    background: #225560;
+    color: #ffff; 
+    margin-bottom: 30px;
+}
+
+header .text-content p.small{
+    font-size: 16px;
+}  
